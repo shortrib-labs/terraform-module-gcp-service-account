@@ -18,6 +18,3 @@ variable "roles" {
     type = list
 }
 
-variable "namespace" {
-    type = string
-}
